@@ -2,6 +2,8 @@
 
 ## Check out the video below for Day8 👇
 
+## Please
+
 [![Day8/16 - Azure DevOps with Terraform](https://img.youtube.com/vi/wq_sn9ey4KM/sddefault.jpg)](https://youtu.be/wq_sn9ey4KM)
 
 ## How Terraform works
